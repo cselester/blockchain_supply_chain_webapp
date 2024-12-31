@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="blockchain-supply-chain">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <property name="context-root" value="blockchain-supply-chain"/>
+        <property name="java-output-path" value="/blockchain-supply-chain/target/classes"/>
+    </wb-module>
+</project-modules>
+||||||| empty tree
+=======
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="user_management_webapp">
+                
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+                
+        <property name="context-root" value="user_management_webapp"/>
+                
+        <property name="java-output-path" value="/user_management_webapp/target/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
+>>>>>>> b03bf580a37766ec2b42f677892fe7b6a7174fab
